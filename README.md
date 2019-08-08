@@ -20,18 +20,18 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 ## Getting Started
 
 ### Clone the repository and navigate to the downloaded folder.
-	* git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-	* cd <project directory>
+* git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+* cd project-directory
 	
 ### Data
-	* Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
-	* Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
+* Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
+* Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 	
 ### Setting up Python Environment
 
-	* Refer to link https://github.com/udacity/deep-learning-v2-pytorch/blob/master/README.md
-	* In summary, install the miniconda environment followed by the machine learning libraries including PyTorch
+* Refer to link https://github.com/udacity/deep-learning-v2-pytorch/blob/master/README.md
+* In summary, install the miniconda environment followed by the machine learning libraries including PyTorch
 
 ### Jupyter Notebook
-	* From the repo, following Python notebook files can be used:
-	* jupyter notebook dog_app.ipynb
+* From the repo, following Python notebook files can be used:
+* jupyter notebook dog_app.ipynb
