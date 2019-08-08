@@ -35,3 +35,7 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 ### Jupyter Notebook
 * From the repo, dog_app Python notebook files can be used
 * jupyter notebook dog_app.ipynb
+
+[image2]
+
+[image3]
