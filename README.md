@@ -20,7 +20,7 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 ## Getting Started
 
 ### Clone the repository and navigate to the downloaded folder.
-* git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+* git clone https://github.com/amitksinhaz/DogClassification.git
 * cd project-directory
 	
 ### Data
