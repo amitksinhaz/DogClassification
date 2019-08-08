@@ -33,5 +33,5 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 * In summary, install the miniconda environment followed by the machine learning libraries including PyTorch
 
 ### Jupyter Notebook
-* From the repo, following Python notebook files can be used:
+* From the repo, dog_app Python notebook files can be used
 * jupyter notebook dog_app.ipynb
