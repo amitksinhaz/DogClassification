@@ -36,6 +36,6 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 * From the repo, dog_app Python notebook files can be used
 * jupyter notebook dog_app.ipynb
 
-[image2]
+![VGG-16 Model Layers][image2]
 
-[image3]
+![VGG16 Model Figure][image3]
